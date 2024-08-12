@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Blog\",\"description\":\"我的个人网站\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/img/惠租.png\"}],[\"link\",{\"rel\":\"manifest\",\"href\":\"/img/惠租.png\"}],[\"link\",{\"rel\":\"apple-touch-icon\",\"href\":\"/img/惠租.png\"}]],\"locales\":{}}")
